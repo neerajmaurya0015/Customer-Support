@@ -1,0 +1,5 @@
+GROQ_API_KEY="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"
+DATABASE_URL='postgresql://neondb_owner:npg_Zp5rVEq1vdgQ@ep-soft-breeze-a8f1t4yy-pooler.eastus2.azure.neon.tech/neondb?sslmode=require&channel_binding=require'
+EMAIL_USER=neerajprojects17@gmail.com
+EMAIL_PASS=Ansil@17
+
