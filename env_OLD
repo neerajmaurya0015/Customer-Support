@@ -1,0 +1,26 @@
+GEMINI_API_KEY=AIzaSyCLxvkjnlqD8LdNYwraFot7kDMtK5L65U4
+# NEON_URI=postgresql://neondb_owner:npg_CzRnYUI92Jik@ep-soft-breeze-a8f1t4yy-pooler.eastus2.azure.neon.tech/neondb?sslmode=require&channel_binding=require
+
+NEON_URI=postgresql://neondb_owner:npg_CzRnYUI92Jik@ep-soft-breeze-a8f1t4yy-pooler.eastus2.azure.neon.tech/neondb?sslmode=require&channel_binding=require
+
+GROQ_API_KEY="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"
+HUGGINGFACEHUB_API_TOKEN="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"
+GOOGLE_API_KEY="AIzaSyCgP_XszRWcSgv4CI9TuXMANNVUvXt7CLc"
+#GEMINI_API_KEY="AIzaSyCLxvkjnlqD8LdNYwraFot7kDMtK5L65U4"
+OPENAI_API_KEY="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"
+TOGETHER_API_KEY="bdb9d46835d4fccfc3135f67accb79ba2edb43cbb95f143558b85d4d616241a1"
+DB_PASSWORD="Ansilbeta17"
+FF_NEON_DB_URI=postgresql://neondb_owner:npg_KNQI5a4kEqbn@ep-misty-flower-ad1t61h5-pooler.c-2.us-east-1.aws.neon.tech/fraud_db?sslmode=require&channel_binding=require
+RODUCTION_BRANCH_DB_PASSWORD="npg_Zp5rVEq1vdgQ"
+# psql 'postgresql://neondb_owner:npg_KNQI5a4kEqbn@ep-misty-flower-ad1t61h5-pooler.c-2.us-east-1.aws.neon.tech/fraud_db?sslmode=require&channel_binding=require'
+
+SQS_QUEUE_URL=https://sqs.eu-north-1.amazonaws.com/812612912496/fraud-transactions-queue
+
+AWS_REGION=eu-north-1
+AWS_ACCESS_KEY_ID=AKIA32M4BAVYL7KSFBOT
+AWS_SECRET_ACCESS_KEY=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
+
+PINECONE_API_KEY="pcsk_6uHQj9_FEABBy4itS7mvELJB1Qct4nTAAvNfYJZ2Ysk13PyWKFTktWibtvcjCogv8J3yQq"
+# customer_support_testing
+
+SendGrid_API_Key="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"

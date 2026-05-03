@@ -1,0 +1,39 @@
+
+# langchain 
+langgraph 
+psycopg
+pgvector
+sentence_transformers
+langchain_groq
+# scipy
+dotenv
+
+pip install psycopg  pgvector  libpq
+pymupdf 
+pypdf  
+pillow 
+langchain 
+transformers
+langchain-community 
+pinecone 
+pytesseract
+sendgrid
+
+
+pip install psycopg[binary]  pgvector langgraph  langchain transformers langchain-community pinecone sendgrid sentence_transformers langchain_groq
+
+
+psycopg
+pgvector
+
+# scipy
+dotenv
+
+
+pymupdf 
+pypdf  
+pillow 
+ 
+
+
+pytesseract
